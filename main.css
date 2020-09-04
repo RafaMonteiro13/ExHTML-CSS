@@ -1,0 +1,57 @@
+
+    #bolsa {
+        color: yellowgreen;
+    }
+    #devolucao{
+        color: red;
+    }
+    #contato{
+        padding: 15px;
+    }
+    #duvidas {
+        padding: 15px;
+    }
+
+    #cursos {
+        border: 2px solid black;
+        padding: 30px;
+        display: inline-block;
+    }
+
+    #titulo {
+        text-align: center;
+        border: 1px solid;
+        color: black;
+        background-color: orange;
+    }
+
+    #titulo2 {
+        border: 1px solid black;
+        padding: 2px;
+        background-color: aqua;
+    }
+
+    .matemagica {
+        border: 1px solid black;
+        background-color: yellowgreen;
+    }
+
+    .quimica {
+        border: 1px solid black;
+        background-color: violet;
+    }
+
+    .geografia {
+        border: 1px solid black;
+        background-color: aquamarine;
+    }
+
+    .ingles {
+        border: 1px solid black;
+        background-color: bisque;
+    }
+
+    .historia {
+        border: 1px solid black;
+        background-color: orange;
+    }
